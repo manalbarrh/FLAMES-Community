@@ -4,7 +4,7 @@ Below you can find the important dates, updates, and relevant information regard
 
 ## 📅 **Key Dates**
 
-- **May 16, 2025** → Submission deadline for simulation results and abstract.
+- **May 20, 2025** → Submission deadline for simulation results and abstract.
 - **June 1–5, 2025** → Presentation of results and methodologies at **FIMH25 Conference** (Texas, USA). Hybrid participation available.
 - **September 3–5, 2025** → Second in-person participant meeting at **CMBBE25 Conference** (Barcelona, Spain).
 
